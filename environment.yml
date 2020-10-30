@@ -1,0 +1,5 @@
+name: notebooks
+dependencies:
+  - python=3.8
+  - ipywidgets
+  - notebook
